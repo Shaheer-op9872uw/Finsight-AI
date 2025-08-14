@@ -1,0 +1,9 @@
+streamlit>=1.35.0
+yfinance>=0.2.40
+pandas>=2.2.2
+numpy>=1.26.4
+openai>=1.37.0
+requests>=2.32.3
+python-dateutil>=2.9.0.post0
+pytz>=2024.1
+matplotlib>=3.9.1

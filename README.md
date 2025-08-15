@@ -1,5 +1,5 @@
 # ⚡ FinSight AI — Portfolio Commander
-Turn holdings into action. FinSight AI combines live market data, short-term forecasts, portfolio analytics and Groq-powered natural-language insights — built to stun recruiters and power real investing demos.
+Turn holdings into action. FinSight AI combines live market data, short-term forecasts, portfolio analytics and Groq-powered natural-language insights — built to stun recruiters and power real investing demos..
 
 **Made by:** **Muhammad Shaheer** & **Irmak Güney**
 
